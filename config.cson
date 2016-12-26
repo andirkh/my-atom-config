@@ -16,9 +16,11 @@
     disabledPackages: [
       "tree-view"
       "terminal-plus"
-      "react"
+      "language-babel"
     ]
   editor:
     fontSize: 12
   "exception-reporting":
     userId: "9c1817d0-6ea4-d5a5-b4cd-4815aecfa482"
+  react:
+    enabledForAllJavascriptFiles: true
